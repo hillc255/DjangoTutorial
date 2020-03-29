@@ -19,7 +19,7 @@ This website has user modules (3 templates: index, detail and result pages) and 
 
 Below are screen shots with the initial poll-index screen, a radio button choice-detail screen, the polling-result screen and administrative module:
 
-![Splash screen with robot poll illustration.](https://raw.githubusercontent.com/hillc255/DjangoTutorial/master/readme_assets/robot_index.png) |
+![Splash screen with robot poll illustration.]<img width="100" height="50" src="readme_assets/robot_index.png> |
 ![Screen of radiobutton selection for robot poll.](https://github.com/hillc255/DjangoTutorial/blob/master/app/src/main/res/drawable/robot_detail.png) |
 ![Screen of robot poll results.](https://github.com/hillc255/DjangoTutorial/blob/master/app/src/main/res/drawable/robot_result.png) |
 ![Screen of text input to the question about light passing through magnifying glass.](https://github.com/hillc255/DjangoTutorial/blob/master/app/src/main/res/drawable/robot_admin.png) |
