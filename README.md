@@ -15,11 +15,11 @@ This website has user modules (3 templates: index, detail and result pages) and 
 
 Below are screen shots with a radio button choice-detail screen, the polling-result screen and administrative module:
 
-<kbd><img width="420" height="220" src="readme_assets/robot_detail.gif">|</kbd><kbd><img width="420" height="220" src="readme_assets/robot_result.gif"></kbd>
+<kbd><img width="420" height="250" src="readme_assets/robot_detail.gif">|</kbd><kbd><img width="420" height="250" src="readme_assets/robot_result.gif"></kbd>
 
 The Administrative module alows for login and password setting along with changing polling question and choices.
 <p align="center">
-<kbd><img width="420" height="220" src="readme_assets/robot_admin.png"></kbd>
+<kbd><img width="420" height="250" src="readme_assets/robot_admin.png"></kbd>
 </p>  
 
 ## Motivation
