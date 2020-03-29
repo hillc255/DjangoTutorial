@@ -18,8 +18,9 @@ The Django tutorial can be accessed here <https://docs.djangoproject.com/en/3.0/
 This website has user modules (3 templates: index, detail and result pages) and an administrative module.
 
 Below are screen shots with the initial poll-index screen, a radio button choice-detail screen, the polling-result screen and administrative module:
-
-<kbd><img width="100" height="50" src="readme_assets/robot_index.gif></kbd>
+<p align="left">
+<kbd><img width="100" height="50" src="readme_assets/robot_index.gif"></kbd>
+ </p>
 ![Screen of radiobutton selection for robot poll.](https://github.com/hillc255/DjangoTutorial/blob/master/app/src/readme_assets/robot_detail.gif) |
 ![Screen of robot poll results.](https://github.com/hillc255/DjangoTutorial/blob/master/app/src/main/res/drawable/robot_result.gif) |
 ![Screen of text input to the question about light passing through magnifying glass.](https://github.com/hillc255/DjangoTutorial/blob/master/app/src/main/res/drawable/robot_admin.gif) |
