@@ -19,7 +19,13 @@ This website has user modules (3 templates: index, detail and result pages) and 
 
 Below are screen shots with the initial poll-index screen, a radio button choice-detail screen, the polling-result screen and administrative module:
 <p align="left">
-<kbd><img width="100" height="50" src="readme_assets/robot_index.gif"></kbd>
+<kbd><img width="200" height="100" src="readme_assets/robot_index.gif"></kbd>
+ </p>
+ <p align="center">
+<kbd><img width="200" height="100" src="readme_assets/robot_detail.gif"></kbd>
+ </p>
+  <p align="right">
+<kbd><img width="200" height="100" src="readme_assets/robot_result.gif"></kbd>
  </p>
 ![Screen of radiobutton selection for robot poll.](https://github.com/hillc255/DjangoTutorial/blob/master/app/src/readme_assets/robot_detail.gif) |
 ![Screen of robot poll results.](https://github.com/hillc255/DjangoTutorial/blob/master/app/src/main/res/drawable/robot_result.gif) |
