@@ -15,8 +15,8 @@ This website has user modules (3 templates: index, detail and result pages) and 
 
 Below are screen shots with the initial poll-index screen, a radio button choice-detail screen, the polling-result screen and administrative module:
 
-<kbd><img width="400" height="300" src="readme_assets/robot_index.gif"></kbd>|<kbd><img width="400" height="300" src="readme_assets/robot_detail.gif"></kbd>|<kbd><img width="400" height="300" src="readme_assets/robot_result.gif"></kbd>|
-<kbd><img width="400" height="300" src="readme_assets/robot_admin.png"></kbd>
+<kbd><img width="500" height="300" src="readme_assets/robot_index.gif"></kbd>|<kbd><img width="500" height="300" src="readme_assets/robot_detail.gif"></kbd>|<kbd><img width="500" height="300" src="readme_assets/robot_result.gif"></kbd>|
+<kbd><img width="500" height="300" src="readme_assets/robot_admin.png"></kbd>
 
 ## Motivation
 
