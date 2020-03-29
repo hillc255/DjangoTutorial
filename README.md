@@ -12,10 +12,9 @@ The Django tutorial can be accessed here <https://docs.djangoproject.com/en/3.0/
 ## Code Description
 
 This website has user modules (3 templates: index, detail and result pages) and an administrative module.
-
 Below are screen shots with a radio button choice-detail screen, the polling-result screen and administrative module:
 
-<kbd><img width="450" height="250" src="readme_assets/robot_detail.gif"></kbd>|<kbd><img width="450" height="250" src="readme_assets/robot_result.gif"></kbd>
+<kbd><img width="450" height="250" src="readme_assets/robot_detail.gif"></kbd><kbd><img width="450" height="250" src="readme_assets/robot_result.gif"></kbd><kbd><img width="500" height="300" src="readme_assets/robot_admin.png"></kbd>
 
 ## Motivation
 
