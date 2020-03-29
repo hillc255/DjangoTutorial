@@ -7,7 +7,7 @@ Name:  Django Tutorial - Robot Poll
 
 This is Robot Polling application built with the Django tutorial.
 
-The Django tutorial can be accessed here <http://www.pewresearch.org/quiz/science-knowledge/>
+The Django tutorial can be accessed here <https://docs.djangoproject.com/en/3.0/>
 
 <p align="center">
  <kbd><img width="533" height="300" src="readme_assets/robot_detail.gif"></kbd>
