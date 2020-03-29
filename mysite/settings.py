@@ -9,13 +9,6 @@ https://docs.djangoproject.com/en/3.0/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/3.0/ref/settings/
 """
-#From Anaconda prompt:
-#(base) /C:\Users\Claudia\PythonProjects\[projectname]>
-#1. get shell commands> python manage.py shell
-#2. execute test cases> python manage.py test polls
-#3. run the server to get web pages> python manage.py runserver
-#4. view public web page: http://127.0.0.1:8000/polls/
-#5. view admin web page: http://127.0.0.1:8000/admin/polls/
 
 import os
 
@@ -62,7 +55,7 @@ ROOT_URLCONF = 'mysite.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
