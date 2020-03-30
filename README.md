@@ -37,6 +37,6 @@ https://github.com/hillc255/DjangoTutorial
 
 Added tests.py file has tests for 
 1.  Creation of questions
-2.  No questions presentisplays message
+2.  No questions present displays message
 3.  Checking the date/time questions were created
 
