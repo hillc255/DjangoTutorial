@@ -3,9 +3,9 @@ Django polling website tutorial built with python
 
 ## Synopsis
 
-Name:  Django Tutorial - Robot Poll
+Name:  Django Tutorial - My Favorite Robot Poll
 
-This is Robot Polling application built with the Django tutorial.
+This is a Favorite Robot Polling application built with Django, a high-level Python Web framework.
 
 The Django tutorial can be accessed here <https://docs.djangoproject.com/en/3.0/>
 
